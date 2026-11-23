@@ -1,0 +1,23 @@
+# Dr Azmat Dental Surgery — llms.txt
+
+> Dr Azmat Dental Surgery is a dentist at 694 Alum Rock Road, Birmingham B8 3NU.
+> Call +44 121 327 0307. Open Monday to Friday, Wednesday until 7:00pm.
+
+## Business facts
+
+- Name: Dr Azmat Dental Surgery
+- Category: Dentist
+- Address: 694 Alum Rock Rd, Birmingham B8 3NU, United Kingdom
+- Plus code: F5P9+W4 Birmingham
+- Phone: +44 121 327 0307
+- Website: https://drazmatdentalsurgery.co.uk/
+- Opening hours: Monday to Friday 9:00am–5:30pm, Wednesday until 7:00pm, Saturday and Sunday closed
+
+## Pages
+
+- Home: https://drazmatdentalsurgery.co.uk/
+- About: https://drazmatdentalsurgery.co.uk/about/
+- Contact: https://drazmatdentalsurgery.co.uk/contact/
+- Privacy Policy: https://drazmatdentalsurgery.co.uk/privacy/
+- Terms of Use: https://drazmatdentalsurgery.co.uk/terms/
+- Sitemap: https://drazmatdentalsurgery.co.uk/sitemap.xml
