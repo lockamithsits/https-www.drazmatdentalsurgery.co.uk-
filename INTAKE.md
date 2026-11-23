@@ -62,5 +62,8 @@ local SEO, AEO/AIO/GEO, GSC, llms.txt, zero invented facts).
 4. SERVICES TO FEATURE — which treatments? (see TOPICAL-MAP.md candidates; all [CONFIRM])
 5. Reviews: omit entirely, show the 3.6★/94 rating, or publish verbatim positives?
 6. Photos: will he supply real practice photos?
-7. Business email? GSC verification? GTM ID?
+7. Business email? GSC verification? GTM ID? — GSC verification ADDED 2026-11-23
+   @ 83485a4 (meta token + googleb7d79ba7b0fa42b4.html, build-verified). Verify click
+   in GSC pending deploy. NOTE: he pasted the www property URL; canonical stays
+   APEX per his "appex on" — verification should pass via the www→apex redirect.
 8. Dentist names/roles (Imran Azmat, Shamila Iqbal, Latif) — confirm before publishing.
